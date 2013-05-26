@@ -1,0 +1,14 @@
+{
+  "name": "arbetsgivaravgift",
+  "repo": "karlbohlmark/arbetsgivaravgift",
+  "description": "Räkna ut arbetsgivaravgift",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
